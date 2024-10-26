@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Vibhore Kumar, CTO of OneByZero, brings over 20 years of expertise in AI, ML, Generative AI, NLP, and enterprise-grade data architectures to the field of digital transformation. Known for his innovative approach, Vibhore previously co-founded Unscrambl, Inc., which pioneered conversational AI to make data insights accessible to business users and was recognized by Gartner as a "Cool Vendor" in Analytics and Data Science in 2022. Under his leadership, Unscrambl scaled globally and was recently acquired by a major systems integrator.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Vibhore’s distinguished career includes roles at IBM's T. J. Watson Research Center, the Center for Experimental Research in Computer Systems at Georgia Tech and the Max-Planck Institute, as well as over 10 patents and 30 publications in high-performance computing (HPC) and AI. His academic background, with a Ph.D. from Georgia Institute of Technology and a B.Tech from IIT (BHU), Varanasi, further underpins his commitment to practical, scalable AI solutions. At OneByZero, he now leads efforts to harness GenAI for impactful enterprise solutions, helping clients optimize decision-making and gain efficiency in a data-driven world.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
