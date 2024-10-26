@@ -7,8 +7,7 @@
     "phone": "(404) 717-9650",
     "url": "https://unscramblr.github.io/",
     "summary": "",
-    "location": {
-    },
+    "location": {},
     "profiles": [
       {
         "network": "Twitter",
@@ -25,7 +24,9 @@
       "startDate": "2024-01-01",
       "endDate": "",
       "summary": "OneByZero is a leader in Data, AI/ML and Generative AI solutions. At OneByZero, I have steered a high-performing, cross-functional team to deliver innovative, scalable AI/Generative AI applications across the Asia-Pacific region. My role involves driving OneByZero's technology strategy, from groundbreaking research to robust implementation, ensuring that each solution empowers businesses to operate more intelligently and efficiently. I have pioneered the adoption of Generative AI, Martech, and hyper-personalization strategies, crafting solutions that leverage modern data platforms to enhance customer engagement and operational agility. By leading projects from experimental model development to full deployment, I enable clients to transition AI from novelty to necessity, harnessing the true power of data-driven transformation.",
-      "highlights": ["Generative AI, NLP, AI/ML, Data Engineering"]
+      "highlights": [
+        "Generative AI, NLP, AI/ML, Data Engineering"
+      ]
     },
     {
       "name": "Unscrambl Inc. (Acquired)",
@@ -34,7 +35,9 @@
       "startDate": "2014-01-01",
       "endDate": "2023-12-01",
       "summary": "As a founder and CEO of Unscrambl, I was responsible for putting together the founding team, raising venture funding (~USD12 million), expanding the organization from its beginnings in Atlanta, to Ankara, Singapore, Pune and Manila and building a multi-million dollar business.\n\nUnscrambl's product offering - Qbo, empowered non-technical business users to have natural language conversations with their data in collaboration platforms such as Microsoft Teams through an AI-powered data analyst. Leading telcos, banks, insurers and retailers use Qbo to connect to data silos, make insights widely accessible across the organization and unlock value from data to make better, faster decisions. Recognized by Gartner as a Cool Vendor in Analytics & Data Science and with a patent-pending NLP technology, Unscrambl - in pre-GenAI era, fundamentally transformed the way business users consumed data and insights.",
-      "highlights": ["Machine Learning, NLP, NL2SQL, Conversational AI"]
+      "highlights": [
+        "Machine Learning, NLP, NL2SQL, Conversational AI"
+      ]
     },
     {
       "name": "IBM Thomas J. Watson Research Center",
@@ -43,7 +46,9 @@
       "startDate": "2008-06-01",
       "endDate": "2013-12-31",
       "summary": "As a key member of the System S/InfoSphere Streams research team, I co-invented the IBM Streams Processing Language and helped design and implement multiple features related to fault-tolerance and orchestration. The commercialization of this research also gave me the opportunity to work with some of the leading clients across the world and be engaged as part of the sales/pre-sales process.\n\nI helped architect and lead the development of a real-time business intelligence and fraud management solution at one of the largest telcos in the world. In 2010, we implemented a highly scalable system that was processing 9B xDRs in real-time. The solution was expanded and implemented at multiple other telcos. I also helped architect a real-time, personalized next-best-offer solution at one of the largest telcos in North America. I played a key role in helping IBM close this multi-million dollar software and services sale.\n\nI also played a key role in establishing a partnership between IBM, Excel-Medical and Emory Healthcare for real-time patient monitoring - specifically early detection of sepsis. I worked with MDs and leading researchers and deployed a prototype that paved the way for expanded work in this area.",
-      "highlights": ["Real-time Stream Processing, Big Data, Distributed Systems"]
+      "highlights": [
+        "Real-time Stream Processing, Big Data, Distributed Systems"
+      ]
     },
     {
       "name": "Center for Experimental Research in Computer Systems",
@@ -52,7 +57,9 @@
       "startDate": "2005-05-31",
       "endDate": "2003-08-01",
       "summary": "I conducted research on novel methods for high-throughput, low-latency and self-management in messaging middlewares . I proposed utility based optimization methods to enable self-management in event based systems and won the best student paper award at the prestigious IEEE International Conference on Autonomic Computing 2005. I also proposed the use of CDF to make probabilistic predictions about available bandwidth and won the best paper award at IEEE High Performance Distributed Computing Symposium 2006.\n\nIn and around 2006, with machine learning starting to take hold in systems research, I designed a novel state-space based approach for managing large enterprise-scale systems. I used clustering methods to detect homogeneous sub-spaces in a system's high-dimensional operational state-space and made use of Bayesian networks to model the sub-spaces and avoid SLA violations. I received the Best Paper Award for this work at the IEEE Network Operations and Management Symposium 2008.",
-      "highlights": ["Event Stream Processing, Distributed Systems, High Performance Computing"]
+      "highlights": [
+        "Event Stream Processing, Distributed Systems, High Performance Computing"
+      ]
     },
     {
       "name": "Oracle",
@@ -61,7 +68,9 @@
       "startDate": "2002-07-01",
       "endDate": "2003-06-30",
       "summary": "Member of Oracle Exchange development team, worked on the negotiations module of this B2B solution.",
-      "highlights": ["Java, Oracle"]
+      "highlights": [
+        "Java, Oracle"
+      ]
     }
   ],
   "volunteer": [
@@ -73,7 +82,9 @@
       "startDate": "2009-04-01",
       "endDate": "2013-03-31",
       "summary": "As an early member of the association, I was instrumental in laying out the mission of this organization and helped establish the financial and reporting processes that have withstood the test of time.\n\nIIT BHU Global Alumni Association's mission is to foster better bonds among alumni, students, faculty and staff of the Institute. Its goals are to promote information exchange among alumni, students, faculty and staff of the Institute, to improve infrastructure at the campus of the Institute located at Varanasi, India, to increase teaching and research activities and standard at the Institute and to maintain better media relations and to achieve for the success of alumni, students, faculty and staff.",
-      "highlights": ["Community Building, Giving Back"]
+      "highlights": [
+        "Community Building, Giving Back"
+      ]
     }
   ],
   "education": [
@@ -84,7 +95,7 @@
       "area": "Computer Science with a minor in Operations Research",
       "studyType": "Ph.D.",
       "startDate": "2003-08-01",
-      "endDate": "2008-05-31",
+      "endDate": "2008-05-31"
     },
     {
       "institution": "Indian Institute of Technology (BHU), Varanasi",
@@ -93,9 +104,8 @@
       "area": "Computer Science & Engineering",
       "studyType": "B.Tech.",
       "startDate": "1998-08-01",
-      "endDate": "2002-05-31",
-    },
-
+      "endDate": "2002-05-31"
+    }
   ],
   "awards": [
     {
@@ -145,17 +155,17 @@
     {
       "title": "Best Paper Award",
       "date": "2008",
-      "awarder": "IEEE/IFIP Network Operations and Management Symposium",
+      "awarder": "IEEE/IFIP Network Operations and Management Symposium"
     },
     {
       "title": "Best Paper Award",
       "date": "2006",
-      "awarder": "IEEE Symposium on High Performance Distributed Computing",
+      "awarder": "IEEE Symposium on High Performance Distributed Computing"
     },
     {
       "title": "Best Student Paper Award",
       "date": "2005",
-      "awarder": "IEEE International Conference on Autonomic Computing",
+      "awarder": "IEEE International Conference on Autonomic Computing"
     }
   ],
   "publications": [
