@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CTO @ <a href='https://onebyzero.ai'>OneByZero</a>. Previously: <a href="https://unscrambl.com/>Unscrambl (Acquired)</a>, <a href="https://research.ibm.com">IBM Research</a>, <a href="https://cc.gatech.edu">Georgia Tech</a>.<br/>Entrepreneur | Inventor | Investor | Researcher | Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Vibhore Kumar, CTO of OneByZero, brings over 20 years of expertise in AI, ML, Generative AI, NLP, and enterprise-grade data architecture to the field of digital transformation. Known for his innovative approach, Vibhore previously co-founded Unscrambl, Inc., which pioneered conversational AI to make data insights accessible to business users and was recognized by Gartner as a "Cool Vendor" in Analytics and Data Science. Under his leadership, Unscrambl scaled globally and was recently acquired by a major systems integrator.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Vibhore’s distinguished career includes roles at IBM Research and the Max-Planck Institute, as well as over 10 patents and 30 publications in high-performance computing (HPC) and AI. His academic background, with a Ph.D. from Georgia Institute of Technology and a B.Tech from IIT Varanasi, further underpins his commitment to practical, scalable AI solutions. At OneByZero, he now leads efforts to harness GenAI for impactful enterprise solutions, helping clients optimize decision-making and gain efficiency in a data-driven world.
