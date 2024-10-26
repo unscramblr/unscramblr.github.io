@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CTO @ <a href='https://onebyzero.ai'>OneByZero</a>. Previously: <a href="https://unscrambl.com/>Unscrambl (Acquired)</a>, <a href="https://research.ibm.com">IBM Research</a>, <a href="https://cc.gatech.edu">Georgia Tech</a>.<br/>Entrepreneur | Inventor | Investor | Researcher | Engineer
+subtitle: CTO @ <a href='https://onebyzero.ai'>OneByZero</a>. Previously: <a href='https://unscrambl.com/'>Unscrambl (Acquired)</a>, <a href='https://research.ibm.com'>IBM Research</a>, <a href='https://cc.gatech.edu'>Georgia Tech</a>.<br/>Entrepreneur | Inventor | Investor | Researcher | Engineer
 
 profile:
   align: right
@@ -15,6 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Vibhore Kumar, CTO of OneByZero, brings over 20 years of expertise in AI, ML, Generative AI, NLP, and enterprise-grade data architecture to the field of digital transformation. Known for his innovative approach, Vibhore previously co-founded Unscrambl, Inc., which pioneered conversational AI to make data insights accessible to business users and was recognized by Gartner as a "Cool Vendor" in Analytics and Data Science. Under his leadership, Unscrambl scaled globally and was recently acquired by a major systems integrator.
+Vibhore Kumar, CTO of OneByZero, brings over 20 years of expertise in AI, ML, Generative AI, NLP, and enterprise-grade data architectures to the field of digital transformation. Known for his innovative approach, Vibhore previously co-founded Unscrambl, Inc., which pioneered conversational AI to make data insights accessible to business users and was recognized by Gartner as a "Cool Vendor" in Analytics and Data Science in 2022. Under his leadership, Unscrambl scaled globally and was recently acquired by a major systems integrator.
 
-Vibhore’s distinguished career includes roles at IBM Research and the Max-Planck Institute, as well as over 10 patents and 30 publications in high-performance computing (HPC) and AI. His academic background, with a Ph.D. from Georgia Institute of Technology and a B.Tech from IIT Varanasi, further underpins his commitment to practical, scalable AI solutions. At OneByZero, he now leads efforts to harness GenAI for impactful enterprise solutions, helping clients optimize decision-making and gain efficiency in a data-driven world.
+Vibhore’s distinguished career includes roles at IBM's T. J. Watson Research Center, the Center for Experimental Research in Computer Systems at Georgia Tech and the Max-Planck Institute, as well as over 10 patents and 30 publications in high-performance computing (HPC) and AI. His academic background, with a Ph.D. from Georgia Institute of Technology and a B.Tech from IIT (BHU), Varanasi, further underpins his commitment to practical, scalable AI solutions. At OneByZero, he now leads efforts to harness GenAI for impactful enterprise solutions, helping clients optimize decision-making and gain efficiency in a data-driven world.
