@@ -3,7 +3,7 @@ layout: page
 permalink: /patents/
 title: patents
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 [1] H. Andrade, B. Gedik, M. Hirzel, V. Kumar, G. Losa, R. Soule, K-L Wu. State Sharing in a Distributed Stream Processing System. US Patent # [8,285,780](https://patents.justia.com/patent/8285780), October 2012.

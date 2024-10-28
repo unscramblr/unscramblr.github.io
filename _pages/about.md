@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "CTO @ <a href='https://onebyzero.ai'>OneByZero</a>. Previously: <a href='https://unscrambl.com/'>Unscrambl (Acquired)</a>, <a href='https://research.ibm.com'>IBM Research</a>, <a href='https://cc.gatech.edu'>Georgia Tech</a>.<br/>Entrepreneur | Inventor | Investor | Researcher | Engineer"
+subtitle: "CTO @ <a href='https://onebyzero.ai'>OneByZero</a>. Previously: <a href='https://unscrambl.com/'>Unscrambl (Acquired)</a>, <a href='https://research.ibm.com'>IBM Research</a>, <a href='https://cc.gatech.edu'>Georgia Tech</a>, <a href='https://iitbhu.ac.in/'>IIT, Varanasi</b>.<br/>Entrepreneur | Inventor | Investor | Researcher | Engineer"
 
 profile:
   align: right
