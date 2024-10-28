@@ -8,3 +8,4 @@ cv_pdf: example_pdf.pdf
 toc:
   sidebar: left
 ---
+Link to <a href='../publications/'>publications</a> and <a href='../patents/'>patents</a>.
