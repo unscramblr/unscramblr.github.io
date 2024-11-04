@@ -4,7 +4,7 @@ title: GenAI Powered ETL Crew for Migrating Legacy ETL Pipelines
 date: 2024-11-04 21:01:00
 description: 
 tags:
-categories: GenAI, ETL
+categories: GenAI
 ---
 
 Migrating ETL pipelines from legacy systems to modern, cloud-based frameworks is a complex but critical task for many enterprises. Ensuring compatibility, migrating large amounts of data, and maintaining system reliability are all substantial challenges. To streamline this transition, we've introduced a team of Generative AI-powered agents called the ETL Crew—a smart, autonomous team comprised of three specialized AI agents: Owl Lead (tech lead), Owl Dev (developer), and Owl QA (quality assurance engineer). Built on the CrewAI framework, the ETL Crew offers an efficient, automated ETL migration solution that incorporates human oversight at key stages, blending the benefits of automation with the assurance of human validation.
