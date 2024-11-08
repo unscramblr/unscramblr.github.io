@@ -304,10 +304,10 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["agents", "multi-agent", "LLM", "AI/ML", "voice"]
+display_tags: ["agents", "multi-agent", "LLM", "AI/ML", "voice", "unscrambl"]
 # ["formatting", "images", "links", "math", "code", "blockquotes"] 
 # these tags will be displayed on the front page of your blog
-display_categories: ["GenAI"]
+display_categories: ["GenAI", "Product"]
 # ["external-services"] 
 # these categories will be displayed on the front page of your blog
 
