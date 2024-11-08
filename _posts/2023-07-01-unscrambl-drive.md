@@ -18,10 +18,17 @@ Unscrambl Drive was purpose-built to address the demands of diverse sectors:
 - Healthcare: In medical environments, Drive’s ability to integrate data from bedside monitors and electronic medical records (EMR) enables early detection of critical conditions, like sepsis, by predicting adverse events based on real-time physiological data.
 - Aviation: Airports handle an overwhelming amount of data from air traffic, gate assignments, and passenger manifests. Drive helps duty managers handle this deluge, providing decision support that factors in real-time changes and potential repercussions, from minimizing passenger delays to optimizing gate usage.
 
-{% include figure.liquid path="assets/img/drive-banking.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-{% include figure.liquid path="assets/img/drive-healthcare.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-{% include figure.liquid path="assets/img/drive-aviation.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/drive-banking.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/drive-healthcare.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/drive-aviation.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## Building a Real-Time Engine with Precision and Scalability
 Drive's underlying architecture was designed to process billions of records daily, all with sub-second latency. It achieves this through several key capabilities:
