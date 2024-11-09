@@ -48,7 +48,7 @@ A standout feature of Drive is its Mad-Libs-style configuration interface. End-u
 Our team was proud to see Drive deployed across several high-profile organizations:
 
 - Etisalat UAE: Enabled real-time processing of user data, providing timely marketing engagements and optimizing network usage.
-- RCBC Bank, Philippines: Enhanced customer engagement by analyzing credit card transactions in real-time and sending personalized offers.
+- <a href="https://markets.businessinsider.com/news/stocks/rizal-commercial-banking-corporation-partners-with-unscrambl-for-ai-powered-real-time-marketing-1028303674">RCBC Bank, Philippines</a>: Enhanced customer engagement by analyzing credit card transactions in real-time and sending personalized offers.
 - Emory University Hospital (research setting): Supported healthcare professionals with predictive insights on patient outcomes.
 - SATS, Singapore: Assisted duty managers in managing airport operations, improving efficiency by dynamically responding to real-time changes.
 
