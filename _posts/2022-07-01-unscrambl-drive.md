@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unscrambl Drive - Real-Time Event Detection for a Hyper-Connected World
-date: 2023-07-01 21:01:00
+date: 2022-07-01 21:01:00
 description: Unscrambl Drive - Real-Time Event Detection for a Hyper-Connected World
 tags: unscrambl
 categories: Product
@@ -44,13 +44,28 @@ Drive's underlying architecture was designed to process billions of records dail
 ## An Intuitive Configuration Experience with Mad-Libs
 A standout feature of Drive is its Mad-Libs-style configuration interface. End-users could craft triggers, alerts, and events with ease, using domain-specific language without grappling with cryptic data attributes. Each deployment could even expand this vocabulary, empowering non-technical users to customize their configurations.
 
+The demo below shows the configuration experience provided by Unscrambl Drive:
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; margin: 1em 0;">
+  <iframe
+    style="position: absolute; top: 0; left:0; width: 100%; height: 100%"
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/efddzWndXT8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
+
 ## Real-World Impact: Deployments Across Global Organizations
 Our team was proud to see Drive deployed across several high-profile organizations:
 
 - Etisalat UAE: Enabled real-time processing of user data, providing timely marketing engagements and optimizing network usage.
 - <a href="https://markets.businessinsider.com/news/stocks/rizal-commercial-banking-corporation-partners-with-unscrambl-for-ai-powered-real-time-marketing-1028303674">RCBC Bank, Philippines</a>: Enhanced customer engagement by analyzing credit card transactions in real-time and sending personalized offers.
 - Emory University Hospital (research setting): Supported healthcare professionals with predictive insights on patient outcomes.
-- SATS, Singapore: Assisted duty managers in managing airport operations, improving efficiency by dynamically responding to real-time changes.
+- <a href="https://www.sats.com.sg/about-sats/awards-and-accolades">SATS, Singapore</a>: Assisted duty managers in managing airport operations, improving efficiency by dynamically responding to real-time changes.
 
 
 ## Update: Post Unscrambl's Acquisition
