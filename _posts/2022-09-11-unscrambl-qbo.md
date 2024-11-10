@@ -5,7 +5,7 @@ date: 2022-09-11 21:01:00
 description: Unscrambl Qbo - Bringing Conversational AI to Business Analytics
 tags: unscrambl
 categories: Product
-featured: false
+featured: true
 ---
 
 In an era of data-driven decision-making, businesses often struggle to make sense of vast data stores quickly and effectively. That’s where Unscrambl Qbo steps in, an AI-powered "data analyst" designed to simplify data access, insights, and decision-making directly within collaboration tools like Microsoft Teams.
