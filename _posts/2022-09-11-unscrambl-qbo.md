@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unscrambl Qbo - Bringing Conversational AI to Business Analytics
+title: Qbo - Bringing Conversational AI to Business Analytics
 date: 2022-09-11 21:01:00
 description: Unscrambl Qbo - Bringing Conversational AI to Business Analytics
 tags: unscrambl
